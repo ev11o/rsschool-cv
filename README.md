@@ -1,5 +1,1 @@
-`# rsschool-cv
-# Egor Shymansky
-### Frontend first year student
-
-#My future skills:`
+https://ev11o.github.io/rsschool-cv/cv
