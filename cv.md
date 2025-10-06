@@ -1,1 +1,1 @@
-cv will be here one day
+https://ev11o.github.io/rsschool-cv/cv
